@@ -2,9 +2,9 @@
   "name": "superheroe",
   "version": "1.0.0",
   "description": "Proyecto para gestionar superhéroes con Node.js y Express.",
-  "main": "app.mjs",
+  "main": "src/app.mjs",
   "scripts": {
-    "start": "node app.mjs",
+    "start": "node src/app.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["superheroes", "nodejs", "express", "mongoose"],
@@ -16,6 +16,5 @@
   },
   "engines": {
     "node": "18.x"
-  },
-  "type": "module"
+  }
 }
