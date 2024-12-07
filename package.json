@@ -1,20 +1,9 @@
 {
-  "name": "superheroe",
-  "version": "1.0.0",
-  "description": "Proyecto para gestionar superhéroes con Node.js y Express.",
-  "main": "src/app.mjs",
   "scripts": {
-    "start": "node src/app.mjs",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.mjs"
   },
-  "keywords": ["superheroes", "nodejs", "express", "mongoose"],
-  "author": "Román",
-  "license": "MIT",
   "dependencies": {
-    "express": "^4.18.2",
-    "mongoose": "^7.4.1"
-  },
-  "engines": {
-    "node": "18.x"
+    "express": "^4.21.1",
+    "mongoose": "^7.0"
   }
 }
