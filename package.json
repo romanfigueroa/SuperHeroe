@@ -1,1 +1,15 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "Un proyecto básico de Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Román",
+  "license": "MIT",
+  "dependencies": {}
+}
 
